@@ -4,23 +4,19 @@ This repository contains a collection of Python beginner projects that will help
 ## Project List
 Here is a list of the projects included in this repository:
 
-1. Hello World - A simple program that prints "Hello, World!" to the console.
+1. Guess the Number - A number guessing game where the user has to guess a random number between 1 and 10.
 
-2. Guess the Number - A number guessing game where the user has to guess a random number between 1 and 10.
+2. Rock, Paper, Scissors - A game of Rock, Paper, Scissors between the user and the computer.
 
-3. Rock, Paper, Scissors - A game of Rock, Paper, Scissors between the user and the computer.
+3. Hangman - A classic game of Hangman where the user has to guess a hidden word.
 
-4. Hangman - A classic game of Hangman where the user has to guess a hidden word.
+4. Temperature Converter - A program that converts Celsius to Fahrenheit and vice versa.
 
-5. Temperature Converter - A program that converts Celsius to Fahrenheit and vice versa.
+5. Calculator - A basic calculator that can perform addition, subtraction, multiplication, and division.
 
-6. Calculator - A basic calculator that can perform addition, subtraction, multiplication, and division.
+6. Tic Tac Toe - A game of Tic Tac Toe between the user and the computer.
 
-7. Tic Tac Toe - A game of Tic Tac Toe between the user and the computer.
-
-8. Palindrome Checker - A program that checks if a given string is a palindrome.
-
-9. Mad Libs Generator - A program that generates silly stories based on user input.
+7. Mad Libs - A program that generates an uplifting statement based on user inputs\ dreams.
 
 ## Getting Started
 To get started with these projects, simply clone the repository to your local machine and run the Python files using a Python interpreter such as IDLE or PyCharm.
